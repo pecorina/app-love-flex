@@ -1,0 +1,21 @@
+/*
+ * Clases reutilizables para el proyecto
+ * (Aquí pueden ir las clases de tu grid)
+ */
+
+.mb-0 {
+  margin-bottom: 0;
+}
+
+.mt-0 {
+  margin-top: 0;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+/*clase reutilizable flex-container , 
+para q mantenga eñ comportamiento de contenedor flex*/
+.flex-container{
+	display: flex;
+}
